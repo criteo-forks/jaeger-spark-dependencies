@@ -20,7 +20,7 @@
   <parent>
     <groupId>io.jaegertracing.dependencies</groupId>
     <artifactId>jaeger-spark-dependencies-parent</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.1-criteo1</version>
   </parent>
 
   <artifactId>jaeger-spark-dependencies</artifactId>

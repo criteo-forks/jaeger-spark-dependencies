@@ -21,7 +21,7 @@
   <parent>
     <artifactId>jaeger-spark-dependencies-parent</artifactId>
     <groupId>io.jaegertracing.dependencies</groupId>
-    <version>0.0.1</version>
+    <version>0.0.1-criteo1</version>
   </parent>
 
   <artifactId>jaeger-spark-dependencies-elasticsearch</artifactId>
